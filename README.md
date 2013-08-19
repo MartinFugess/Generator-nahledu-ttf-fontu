@@ -1,4 +1,4 @@
-## Generátor náhledú ttf fontů
+## Generátor náhledů ttf fontů
 > Jednoduchý nástroj pro vygenerování náhledů z .ttf fontů
 
 <br>
@@ -12,7 +12,7 @@
 
 #### Návod
 * .ttf soubory, u kterých se mají vygenerovat náhledy se nahrají do **ttf** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
-* Pak už stačí vygenerovat náhledy, které se ukládájí do **previews** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
+* Pak už stačí vygenerovat náhledy, které se ukládají do **previews** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
 * Další nastavení najdete v **config.php**
 * Nezapomeňte nastavit práva!
 
