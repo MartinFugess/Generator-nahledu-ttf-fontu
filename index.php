@@ -7,6 +7,8 @@ class FontGen extends Konfig
   //konstruktor
   public function __construct()
   {
+    $absolutni_url = $this->AbsolutniUrl();
+
     if (file_exists($this->dirfont))
     {
       $cesta = (!Empty($_POST["cesta"]) ? $_POST["cesta"] : $this->dirfont);
@@ -154,9 +156,7 @@ class FontGen extends Konfig
           }
         }
 
-        $row = implode("", $row);
-
-        $absolutni_url = $this->AbsolutniUrl();
+        $row = implode($row);
 
         $result = "<!DOCTYPE html>
 <html>
