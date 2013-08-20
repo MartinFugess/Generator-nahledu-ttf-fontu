@@ -14,7 +14,7 @@
 * .ttf soubory, u kterých se mají vygenerovat náhledy se nahrají do **ttf** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
 * Pak už stačí vygenerovat náhledy, které se ukládají do **previews** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
 * Další nastavení najdete v **config.php**
-* PHP závislot: GD library
+* PHP závisloti: Heredoc (PHP 5.3), DirectoryIterator (PHP 5), GD library (PHP 4 / PHP 5)
 * Nezapomeňte nastavit práva!
 
 <br>
