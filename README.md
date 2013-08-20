@@ -14,6 +14,7 @@
 * .ttf soubory, u kterých se mají vygenerovat náhledy se nahrají do **ttf** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
 * Pak už stačí vygenerovat náhledy, které se ukládají do **previews** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
 * Další nastavení najdete v **config.php**
+* PHP závislot: GD library
 * Nezapomeňte nastavit práva!
 
 <br>
