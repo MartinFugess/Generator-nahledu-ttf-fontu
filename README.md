@@ -1,5 +1,5 @@
 ## Generátor náhledů ttf fontů
-> Jednoduchý nástroj pro vygenerování náhledů z .ttf fontů
+> Jednoduchý (a velmi starý) nástroj pro vygenerování náhledů z .ttf fontů
 
 <br>
 
@@ -11,23 +11,23 @@
 <br>
 
 #### Návod
-* .ttf soubory, u kterých se mají vygenerovat náhledy se nahrají do **ttf** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
-* Pak už stačí vygenerovat náhledy, které se ukládají do **previews** složky (nebo podle nastavení - nezapomeňte, že složka musí existovat!)
-* Další nastavení najdete v **config.php**
+* .ttf soubory, u kterých se mají vygenerovat náhledy se nahrají do **ttf** složky (nebo podle nastavení - složka musí existovat!)
+* Pak už stačí vygenerovat náhledy, které se ukládají do **previews** složky (nebo podle nastavení - složka musí existovat!)
+* Další nastavení v **config.php**
 * PHP závislot: GD library
-* Nezapomeňte nastavit práva!
+* Nezapomnět nastavit práva!
 
 <br>
 
-####Náhled #1
+#### Náhled #1
 ![ScreenShot](https://raw.github.com/MartinFugess/Generator-nahledu-ttf-fontu/master/font_gen_nahled_1.jpg)
 
 <br>
 
-####Náhled #2
+#### Náhled #2
 ![ScreenShot](https://raw.github.com/MartinFugess/Generator-nahledu-ttf-fontu/master/font_gen_nahled_2.jpg)
 
 <br>
 
-####Náhled #3
+#### Náhled #3
 ![ScreenShot](https://raw.github.com/MartinFugess/Generator-nahledu-ttf-fontu/master/font_gen_nahled_3.jpg)
